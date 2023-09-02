@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Simonetta:400,500);
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("https://preview.redd.it/hzh55piluw771.jpg?auto=webp&s=938cd1ee3fca266492deba5d22c345833e53efda");
+  background-position: center;
+  background-size: cover;
+}
+
+  .box {
+    width: 500px;
+  height: 216px;
+    
+  }
+  
+  .box .quotebox {
+    position: fixed;
+    width: 500px;
+    height: 216px;
+    top: 30%;
+    left: 33%;
+    box-shadow: 0 0  1rem  #2A224A;
+  }
+  
+  .box .overlap-group {
+    position: relative;
+  height: 216px;
+  }
+  
+  .box .div {
+    position: absolute;
+    width: 500px;
+    height: 214px;
+    top: 2px;
+    left: 0;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+  }
+  
+  
+  
+  .box .h {
+    position: absolute;
+    width: 500px;
+    height: 65px;
+    top: 0;
+    left: 0;
+    background-color:  #2A224A;
+    border-radius: 8px 8px 0px 0px;
+  }
+  button {
+    color: #2A224A;
+    position: absolute;
+    width: 243px;
+    height: 45px;
+    top: 151px;
+    left: 129px;
+    background-color: #ffcf58;
+    border-radius: 15px;
+    border: transparent;
+    font-size: 20px;
+    font-family: 'Simonetta', sans-serif;
+  }
+  
+  h1{
+    font-family: 'Simonetta', sans-serif;
+    color: #9894F2 ;
+    padding: 15px;
+    font-size: 24px;
+    text-align: center;
+}
+.quote{
+    margin: 15px 40px;
+    color: #2A224A;
+    font-family: 'Simonetta', sans-serif;
+    font-size: 17px;
+    border-radius: 2px;  
+    text-align: center; 
+}
+.footer {
+  width: 450px;
+  text-align: center;
+  display: block;
+  margin: 15px auto 30px auto;
+  font-size: 1em;
+  color: #e4dfff;
+  font-family: 'Simonetta', sans-serif;
+  background-color: rgba(42, 34, 74, 75%);
+  border-radius: 15px;
+    border: transparent;
+    padding: 7px;
+}
+.footer a {
+  font-weight: 500;
+  text-decoration: none;
+  color: #e4dfff;
+  font-family: 'Simonetta', sans-serif;
+}
+
