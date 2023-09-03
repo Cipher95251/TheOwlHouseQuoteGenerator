@@ -21,7 +21,7 @@ body{
   position: relative;
   width: 209px;
   height: 75px;
-  bottom: 50%;
+  padding-bottom: 50%;
 }
 
 .owlbox .owl {
