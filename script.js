@@ -82,7 +82,7 @@ const backgrounds = [
   //15
   "https://pbs.twimg.com/media/Fi4xrr0UAAAgWoY.jpg:large",
   "https://pbs.twimg.com/media/FKOaKNrVIAAycg2.jpg:large",
-  "https://static.wikia.nocookie.net/the-owl-house/images/c/c7/TheLookingGlassRuins.png/revision/latest?cb=20210710152853",
+  "https://i.pinimg.com/originals/d2/4c/ec/d24cecaf2f9a2bba7693f24e85a109c9.jpg",
   "https://m.media-amazon.com/images/M/MV5BYjY5OTJhNWItZGRlNy00YWRhLTkzNWYtODk2ZTUxYjVlMGJiXkEyXkFqcGdeQXVyMTU5OTk0MjAz._V1_.jpg",
   "https://wallpapercave.com/wp/wp12306125.jpg",
   //20
