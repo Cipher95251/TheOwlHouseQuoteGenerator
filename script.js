@@ -82,6 +82,9 @@ const backgrounds = [
   //15
   "https://pbs.twimg.com/media/Fi4xrr0UAAAgWoY.jpg:large",
   "https://pbs.twimg.com/media/FKOaKNrVIAAycg2.jpg:large",
+  "https://m.media-amazon.com/images/M/MV5BMTY3MGY3ZmEtNDkxMC00ZjM0LTg5NmQtY2ZkOWY3YmVkZDJmXkEyXkFqcGdeQXVyMTU5OTk0MjAz._V1_.jpg",
+  "https://m.media-amazon.com/images/M/MV5BYjY5OTJhNWItZGRlNy00YWRhLTkzNWYtODk2ZTUxYjVlMGJiXkEyXkFqcGdeQXVyMTU5OTk0MjAz._V1_.jpg",
+  "https://m.media-amazon.com/images/M/MV5BMDcwZjY2MDgtMDYxZi00OGY4LWI3OTItYzU0OTc5MmM5YThjXkEyXkFqcGdeQXVyMTU5OTk0MjAz._V1_.jpg",
 ];
 
 function getRandomQuote() {
