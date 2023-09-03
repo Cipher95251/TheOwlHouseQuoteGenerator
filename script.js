@@ -72,9 +72,7 @@ const backgrounds = [
   "https://preview.redd.it/luz-finally-finished-hexside-v0-vdyldu8i52ya1.jpg?width=1920&format=pjpg&auto=webp&s=23950afdf016ec898f5db10c900c5bbe696db8bd",
   "https://i.pinimg.com/originals/92/2e/18/922e185775e905a8d33f691a50f3ed08.jpg",
   "https://wallpaperboat.com/wp-content/uploads/2020/11/24/61589/the-owl-house-14.jpg",
-  "https://i.pinimg.com/originals/2d/6b/0f/2d6b0fe747773e4a82d4b18b225d47af.png"
-  //10
-  "https://c4.wallpaperflare.com/wallpaper/237/838/546/the-owl-house-landscape-hd-wallpaper-preview.jpg",
+  "https://i.pinimg.com/originals/2d/6b/0f/2d6b0fe747773e4a82d4b18b225d47af.png",
 ];
 
 function getRandomQuote() {
