@@ -76,7 +76,7 @@ body{
     height: 216px;
     top: 30%;
     left: 33%;
-    box-shadow: 0 0  1rem  #2A224A;
+    
   }
   
   .box .overlap-group {
@@ -92,6 +92,7 @@ body{
     left: 0;
     background-color: #f2f2f2;
     border-radius: 8px;
+    box-shadow: 0 0  1rem  #2A224A;
   }
   
   
