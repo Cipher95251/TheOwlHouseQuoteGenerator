@@ -80,7 +80,8 @@ const backgrounds = [
   "https://pbs.twimg.com/media/FmUjF59akAA_otb?format=jpg&name=large",
   "https://cdn.wallpapersafari.com/95/31/orNGXj.png",
   //15
-  
+  "https://cdn.wallpapersafari.com/49/96/ARadT7.jpg",
+  "https://pbs.twimg.com/media/FKOaKNrVIAAycg2.jpg:large",
 ];
 
 function getRandomQuote() {
