@@ -84,7 +84,7 @@ const backgrounds = [
   "https://pbs.twimg.com/media/FKOaKNrVIAAycg2.jpg:large",
   "https://m.media-amazon.com/images/M/MV5BMTY3MGY3ZmEtNDkxMC00ZjM0LTg5NmQtY2ZkOWY3YmVkZDJmXkEyXkFqcGdeQXVyMTU5OTk0MjAz._V1_.jpg",
   "https://m.media-amazon.com/images/M/MV5BYjY5OTJhNWItZGRlNy00YWRhLTkzNWYtODk2ZTUxYjVlMGJiXkEyXkFqcGdeQXVyMTU5OTk0MjAz._V1_.jpg",
-  "https://m.media-amazon.com/images/M/MV5BMDcwZjY2MDgtMDYxZi00OGY4LWI3OTItYzU0OTc5MmM5YThjXkEyXkFqcGdeQXVyMTU5OTk0MjAz._V1_.jpg",
+  "https://wallpapercave.com/wp/wp12306125.jpg",
 ];
 
 function getRandomQuote() {
