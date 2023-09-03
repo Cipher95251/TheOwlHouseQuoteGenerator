@@ -119,6 +119,7 @@ body{
   height: 75px;
   top: 107px;
   left: 499px;
+ 
 }
 
 .owlbox .small {
@@ -128,6 +129,7 @@ body{
   top: 0;
   left: 67px;
   object-fit: cover;
+  border-radius: 58px;
 }
 
 .owlbox .big {
@@ -137,6 +139,7 @@ body{
   top: 28px;
   left: 162px;
   object-fit: cover;
+  border-radius: 58px;
 }
 
 .owlbox .img {
@@ -146,4 +149,5 @@ body{
   top: 28px;
   left: 0;
   object-fit: cover;
+  border-radius: 58px;
 }
