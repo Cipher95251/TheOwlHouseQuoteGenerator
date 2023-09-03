@@ -38,7 +38,7 @@ body{
   left: 67px;
   object-fit: cover;
   border-radius: 58px;
-  box-shadow: #ffcf58;
+  box-shadow: 0 0  1rem  #ffcf58;
 }
 
 .owlbox .big {
@@ -49,7 +49,7 @@ body{
   left: 162px;
   object-fit: cover;
   border-radius: 58px;
-  box-shadow: #ffcf58;
+  box-shadow: 0 0  1rem  #ffcf58;
 }
 
 .owlbox .img {
@@ -60,7 +60,7 @@ body{
   left: 0;
   object-fit: cover;
   border-radius: 58px;
-  box-shadow: #ffcf58;
+  box-shadow: 0 0  1rem  #ffcf58;
 }
 
   .box {
