@@ -78,6 +78,7 @@ const backgrounds = [
   "https://pbs.twimg.com/media/FXHczH1XEAEL3ro?format=jpg&name=large",
   "https://pbs.twimg.com/media/FXHcyBTXwAEjz3U.jpg:large",
   "https://pbs.twimg.com/media/FmUjF59akAA_otb?format=jpg&name=large",
+  "https://cdn.wallpapersafari.com/95/31/orNGXj.png",
 ];
 
 function getRandomQuote() {
