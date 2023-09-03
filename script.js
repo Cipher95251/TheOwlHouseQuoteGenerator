@@ -75,6 +75,9 @@ const backgrounds = [
   "https://i.pinimg.com/originals/2d/6b/0f/2d6b0fe747773e4a82d4b18b225d47af.png",
   //10
   "https://wallpapercave.com/wp/wp12206919.jpg",
+  "https://pbs.twimg.com/media/FXHczH1XEAEL3ro?format=jpg&name=large",
+  "https://pbs.twimg.com/media/FXHcyBTXwAEjz3U.jpg:large",
+  "https://pbs.twimg.com/media/FmUjF59akAA_otb?format=jpg&name=large",
 ];
 
 function getRandomQuote() {
