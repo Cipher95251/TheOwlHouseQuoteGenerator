@@ -107,3 +107,43 @@ body{
   font-family: 'Simonetta', sans-serif;
 }
 
+.owlbox {
+  position: relative;
+  width: 209px;
+  height: 75px;
+}
+
+.owlbox .owl {
+  position: fixed;
+  width: 209px;
+  height: 75px;
+  top: 0;
+  left: 0;
+}
+
+.owlbox .small {
+  width: 75px;
+  height: 75px;
+  top: 0;
+  left: 67px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.owlbox .big {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  top: 28px;
+  left: 162px;
+  object-fit: cover;
+}
+
+.owlbox .img {
+  width: 47px;
+  height: 47px;
+  top: 28px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
